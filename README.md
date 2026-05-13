@@ -243,7 +243,7 @@ Smart-Waste-Segregation-And-Recycling-System/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Smart-Waste-Segregation-And-Recycling-System.git
+git clone https://github.com/krss_94/Smart-Waste-Segregation-And-Recycling-System.git
 cd Smart-Waste-Segregation-And-Recycling-System
 ```
 

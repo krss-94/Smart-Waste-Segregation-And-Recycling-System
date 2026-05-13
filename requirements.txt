@@ -1,0 +1,37 @@
+# Smart Waste Segregation and Recycling System
+# Requirements File
+# -----------------
+# Install with: pip install -r requirements.txt
+
+# Core ML / Computer Vision
+tensorflow>=2.12.0
+tensorflow-hub>=0.13.0
+numpy>=1.23.5
+Pillow>=9.5.0
+opencv-python>=4.7.0.72
+
+# Web Dashboard
+flask>=2.3.0
+flask-socketio>=5.3.4
+eventlet>=0.33.3
+
+# Data & Visualization
+matplotlib>=3.7.1
+pandas>=2.0.0
+plotly>=5.14.1
+
+# Serial Communication (for real hardware)
+pyserial>=3.5
+
+# Utilities
+requests>=2.28.2
+python-dotenv>=1.0.0
+rich>=13.3.5
+click>=8.1.3
+
+# Testing
+pytest>=7.3.1
+pytest-cov>=4.1.0
+
+# Optional: TFLite runtime (lightweight inference)
+# tflite-runtime>=2.12.0
